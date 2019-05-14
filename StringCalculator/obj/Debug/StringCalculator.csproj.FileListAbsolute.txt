@@ -1,0 +1,7 @@
+D:\virpc\COSC292\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+D:\virpc\COSC292\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+D:\virpc\COSC292\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+D:\virpc\COSC292\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojAssemblyReference.cache
+D:\virpc\COSC292\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+D:\virpc\COSC292\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+D:\virpc\COSC292\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb

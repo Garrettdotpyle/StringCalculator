@@ -1,0 +1,17 @@
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.csprojAssemblyReference.cache
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.csproj.CoreCompileInputs.cache
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculatorTests.dll
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculatorTests.pdb
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculator.exe
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculator.pdb
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculator.exe.config
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.csproj.CopyComplete
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.dll
+D:\virpc\COSC292\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.pdb
